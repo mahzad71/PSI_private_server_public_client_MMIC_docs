@@ -1,0 +1,4 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes,fixed_length_encoded_icd_codes,unique_number
+10040025,35353291,3,I10,10,Essential (primary) hypertension,772800143,11700,25
+10040025,32840887,5,Z794,10,Long term (current) use of insulin,47299464,1222456,20
+10014354,35205519,1,I4891,10,Unspecified atrial fibrillation,432295680,15313861,29

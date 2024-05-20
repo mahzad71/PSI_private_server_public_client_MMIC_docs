@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes
+10002930,32272346,3,B20,10,Human immunodeficiency virus [HIV] disease,22927
+10018423,33032677,1,R079,10,"Chest pain, unspecified",18273436
+10040025,32095131,1,E11621,10,Type 2 diabetes mellitus with foot ulcer,52828332928
+10019003,38020791,1,D735,10,Infarction of spleen,4343032
+10019003,31254712,1,A419,10,"Sepsis, unspecified organism",1312836
+10040025,36132883,1,R600,10,Localized edema,18332727
+10037928,34992024,3,W010XXA,10,"Fall same lev from slip/trip w/o strike against object, init",2327282724241
+10039997,34951841,2,R531,10,Weakness,18323028
+10039708,36474912,2,Y838,10,"Oth surgical procedures cause abn react/compl, w/o misadvnt",25353035
+10035631,39467106,1,J189,10,"Pneumonia, unspecified organism",10283536
+10014354,39633384,1,E1165,10,Type 2 diabetes mellitus with hyperglycemia,528283332
+10015272,33473053,1,I2699,10,Other pulmonary embolism without acute cor pulmonale,929333636
+10039708,30915333,1,K922,10,"Gastrointestinal hemorrhage, unspecified",11362929
+10026354,31200743,3,X991XXA,10,"Assault by knife, initial encounter",2436362824241
+10023239,35942924,2,E109,10,Type 1 diabetes mellitus without complications,5282736
+10010471,35357090,1,I4891,10,Unspecified atrial fibrillation,931353628
+10016742,33211001,1,Z452,10,Encounter for adjustment and management of VAD,26313229
+10040025,31226423,2,R197,10,"Diarrhea, unspecified",18283634
+10039708,32587478,1,N179,10,"Acute kidney failure, unspecified",14283436
+10002930,39266792,3,B20,10,Human immunodeficiency virus [HIV] disease,22927

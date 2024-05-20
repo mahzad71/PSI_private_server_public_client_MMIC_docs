@@ -1,0 +1,3 @@
+<tenseal.tensors.bfvvector.BFVVector object at 0x7f8e7ed56890>, <tenseal.tensors.bfvvector.BFVVector object at 0x7f8e7ed56920>
+<tenseal.tensors.bfvvector.BFVVector object at 0x7f8e7ed56830>, None
+<tenseal.tensors.bfvvector.BFVVector object at 0x7f8e7ed56980>, None

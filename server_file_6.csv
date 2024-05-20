@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes,fixed_length_encoded_icd_codes,unique_number
+10038999,34205403,2,W010XXA,10,"Fall same lev from slip/trip w/o strike against object, init",153420258,50067705313,100
+10016742,33065303,1,I214,10,Non-ST elevation (NSTEMI) myocardial infarction,479550280,422536,5
+10040025,36132883,6,Z7901,10,Long term (current) use of anticoagulants,893803031,44008273,111
+10019003,31254712,3,E860,10,Dehydration,346852819,243864,64
+10039997,31764136,1,F329,10,"Major depressive disorder, single episode, unspecified",105979436,283905,117
+10019003,36686656,1,D61818,10,Other pancytopenia,137998655,251999468,116
+10014354,39202185,3,C9110,10,Chronic lymphocytic leuk of B-cell type not achieve remis,794883884,5460084,71
+10037928,35156583,3,W1830XA,10,"Fall on same level, unspecified, initial encounter",572594260,50140037665,60
+10015860,31153288,2,D72829,10,"Elevated white blood cell count, unspecified",834292154,253725777,54
+10023239,37578680,2,E119,10,Type 2 diabetes mellitus without complications,801674752,234621,14
+10020306,37321464,1,M545,10,Low back pain,445690600,613157,121
+10010867,30115213,2,S12600A,10,"Unsp disp fx of seventh cervical vertebra, init for clos fx",122798340,41422969729,145
+10023239,31270431,5,R599,10,"Enlarged lymph nodes, unspecified",349082680,846621,18
+10012853,38074673,2,Y833,10,"Form of external stoma cause abn react/compl, w/o misadvnt",962511849,1176879,104
+10014354,39140069,2,M549,10,"Dorsalgia, unspecified",516456951,613161,67
+10040025,35353291,4,Z794,10,Long term (current) use of insulin,47299464,1222456,20
+10015931,39501852,1,R0600,10,"Dyspnea, unspecified",572635487,30240864,85
+10014354,34820898,2,E10649,10,Type 1 diabetes mellitus with hypoglycemia without coma,947273825,304018425,75
+10012853,32039794,1,I82622,10,Acute embolism and thrombosis of deep veins of l up extrem,338493634,557733674,106
+10023239,39348852,1,E1010,10,Type 1 diabetes mellitus with ketoacidosis without coma,419411060,8444772,21

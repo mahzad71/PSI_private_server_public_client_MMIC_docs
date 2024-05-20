@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes,fixed_length_encoded_icd_codes,unique_number
+10014354,39202185,5,Z794,10,Long term (current) use of insulin,47299464,1222456,20
+10040025,31320010,2,J181,10,"Lobar pneumonia, unspecified organism",543446351,468145,129
+10039708,34918384,2,K859,10,"Acute pancreatitis, unspecified",144465231,523773,82
+10037928,34992024,1,S098XXA,10,"Other specified injuries of head, initial encounter",925744962,41374386145,97
+10039708,34918384,1,A419,10,"Sepsis, unspecified organism",359535548,51885,79
+10039708,31612436,2,R0600,10,"Dyspnea, unspecified",572635487,30240864,85
+10014354,35203396,1,L03031,10,Cellulitis of right toe,239422447,725734189,76
+10012853,33256413,5,I4891,10,Unspecified atrial fibrillation,432295680,15313861,29
+10010867,30115213,3,F10129,10,"Alcohol abuse with intoxication, unspecified",211824400,364478049,91
+10023239,36323598,1,R110,10,Nausea,776364721,841140,17
+10014354,35452640,2,I10,10,Essential (primary) hypertension,772800143,11700,25
+10020306,37206743,1,R0600,10,"Dyspnea, unspecified",572635487,30240864,85
+10040025,35353291,2,L97529,10,Non-pressure chronic ulcer oth prt left foot w unsp severity,495973622,741043809,133
+10023239,31270431,2,R740,10,Nonspec elev of levels of transamns & lactic acid dehydrgnse,921375779,849024,19
+10014354,39105638,1,R51,10,Headache,437147291,23509,62
+10002428,38216551,1,H5713,10,"Ocular pain, bilateral",281814577,13679319,150
+10010867,30667562,1,S22059A,10,"Unsp fracture of T5-T6 vertebra, init for clos fx",383864845,41483162773,146
+10014354,39633384,3,T383X1A,10,"Poisoning by insulin and oral hypoglycemic drugs, acc, init",800166531,43730653285,78
+10015860,39962121,1,E10621,10,Type 1 diabetes mellitus with foot ulcer,148881836,304018345,55
+10016742,33335871,1,J189,10,"Pneumonia, unspecified organism",853498443,468153,101

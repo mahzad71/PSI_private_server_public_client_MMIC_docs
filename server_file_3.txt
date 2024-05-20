@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes
+10015860,30373795,4,E119,10,Type 2 diabetes mellitus without complications,5282836
+10039708,38488295,1,R5383,10,Other fatigue,1832303530
+10015860,31626291,4,E872,10,Acidosis,5353429
+10012853,33256413,3,I10,10,Essential (primary) hypertension,92827
+10026406,38237602,3,R45851,10,Suicidal ideations,183132353228
+10020306,37965024,2,R05,10,Cough,182732
+10014354,34617920,1,R509,10,"Fever, unspecified",18322736
+10040025,32840887,2,I129,10,Hypertensive chronic kidney disease w stg 1-4/unsp chr kdny,9282936
+10015860,30373795,6,Z992,10,Dependence on renal dialysis,26363629
+10012853,39028384,1,T8389XA,10,"Oth complication of genitourinary prosth dev/grft, init",2035303536241
+10040025,36132883,2,I10,10,Essential (primary) hypertension,92827
+10015860,39962121,3,E1065,10,Type 1 diabetes mellitus with hyperglycemia,528273332
+10020187,30689793,1,I609,10,"Nontraumatic subarachnoid hemorrhage, unspecified",9332736
+10039708,34604678,2,X58XXXA,10,"Exposure to other specified factors, initial encounter",2432352424241
+10014354,39394858,1,R0789,10,Other chest pain,1827343536
+10023117,35716124,1,R079,10,"Chest pain, unspecified",18273436
+10020306,36021274,1,E11649,10,Type 2 diabetes mellitus with hypoglycemia without coma,52828333136
+10007058,38967799,2,I214,10,Non-ST elevation (NSTEMI) myocardial infarction,9292831
+10002930,30193781,3,F28,10,Oth psych disorder not due to a sub or known physiol cond,62935
+10019385,30324772,1,R079,10,"Chest pain, unspecified",18273436

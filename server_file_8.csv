@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes,fixed_length_encoded_icd_codes,unique_number
+10014354,35452640,4,E780,10,Pure hypercholesterolemia,44708998,242640,63
+10002930,35114287,1,F329,10,"Major depressive disorder, single episode, unspecified",105979436,283905,117
+10015860,31153288,4,N186,10,End stage renal disease,638399300,654774,46
+10023239,31270431,4,Z794,10,Long term (current) use of insulin,47299464,1222456,20
+10020187,35766268,1,R208,10,Other disturbances of skin sensation,425281593,842408,27
+10015860,30373795,1,M7989,10,Other specified soft tissue disorders,446944638,22173561,52
+10007058,38967799,1,I7100,10,Dissection of unspecified site of aorta,775255912,15444432,6
+10039997,34951841,1,I639,10,"Cerebral infarction, unspecified",123696744,427797,119
+10014354,39202185,1,M7989,10,Other specified soft tissue disorders,446944638,22173561,52
+10005866,31121963,2,R079,10,"Chest pain, unspecified",772980122,840069,1
+10020306,36021274,3,R531,10,Weakness,847475633,846397,70
+10002930,35114287,3,S0090XA,10,"Unsp superficial injury of unsp part of head, init encntr",418813384,41359285153,93
+10020306,37321464,4,Z7984,10,Long term (current) use of oral hypoglycemic drugs,207280498,44008564,124
+10039708,30915333,2,I959,10,"Hypotension, unspecified",160456958,431757,81
+10014354,39633384,2,Z794,10,Long term (current) use of insulin,47299464,1222456,20
+10015860,31353849,1,S72142A,10,"Displaced intertrochanteric fracture of left femur, init",471626845,41785538761,58
+10010471,31660580,1,I469,10,"Cardiac arrest, cause unspecified",107702607,425313,28
+10014354,39202185,4,E119,10,Type 2 diabetes mellitus without complications,801674752,234621,14
+10019003,35568186,3,R0902,10,Hypoxemia,324037696,30244754,115
+10014354,35203396,3,Z794,10,Long term (current) use of insulin,47299464,1222456,20

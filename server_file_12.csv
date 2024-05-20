@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes,fixed_length_encoded_icd_codes,unique_number
+10023239,36323598,4,Z794,10,Long term (current) use of insulin,47299464,1222456,20
+10014354,36428628,1,R531,10,Weakness,847475633,846397,70
+10037928,37483564,1,K3580,10,Unspecified acute appendicitis,316535950,18622512,95
+10040025,32840887,6,E7800,10,"Pure hypercholesterolemia, unspecified",614209742,8735040,22
+10039708,32991451,4,I10,10,Essential (primary) hypertension,772800143,11700,25
+10005866,31023359,1,R1031,10,Right lower quadrant pain,606087769,30279853,37
+10039708,32991451,5,N189,10,"Chronic kidney disease, unspecified",211653998,654777,83
+10039708,39747335,1,M25562,10,Pain in left knee,406063128,789659498,86
+10040025,36041505,2,Y838,10,"Oth surgical procedures cause abn react/compl, w/o misadvnt",83239254,1176884,84
+10026406,38237602,2,W109XXA,10,"Fall (on) (from) unspecified stairs and steps, init encntr",115626131,50126911777,94
+10005866,31023359,4,B1920,10,Unspecified viral hepatitis C without hepatic coma,520765148,3417624,33
+10029291,39297781,1,I2692,10,Saddle embolus of pulmonary artery w/o acute cor pulmonale,708960706,15217958,2
+10014354,30094124,1,R531,10,Weakness,847475633,846397,70
+10040025,31320010,1,R0600,10,"Dyspnea, unspecified",572635487,30240864,85
+10020306,36021274,2,E860,10,Dehydration,346852819,243864,64
+10014354,33222885,1,N390,10,"Urinary tract infection, site not specified",559350810,657396,68
+10001725,33693488,2,H53143,10,"Visual discomfort, bilateral",978780531,492268899,10
+10019003,35568186,2,J90,10,"Pleural effusion, not elsewhere classified",773898530,13284,112
+10001725,33693488,1,H16001,10,"Unspecified corneal ulcer, right eye",988475623,485688961,9
+10010867,30115213,4,V4352XA,10,"Car driver injured in collision w car in traf, init",217905984,48136351681,148

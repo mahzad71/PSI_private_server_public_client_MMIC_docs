@@ -1,0 +1,4 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes
+10014354,30279522,1,R531,10,Weakness,18323028
+10015860,39962121,4,Z794,10,Long term (current) use of insulin,26343631
+10014354,35203396,4,I10,10,Essential (primary) hypertension,92827

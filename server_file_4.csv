@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes,fixed_length_encoded_icd_codes,unique_number
+10037928,34992024,6,I10,10,Essential (primary) hypertension,772800143,11700,25
+10015860,31353849,2,W1830XA,10,"Fall on same level, unspecified, initial encounter",572594260,50140037665,60
+10040025,35353291,1,E10621,10,Type 1 diabetes mellitus with foot ulcer,148881836,304018345,55
+10023239,35942924,3,Z794,10,Long term (current) use of insulin,47299464,1222456,20
+10023239,36323598,5,Z9641,10,Presence of insulin pump (external) (internal),801365249,44097841,24
+10040025,36132883,3,E109,10,Type 1 diabetes mellitus without complications,884066495,234585,13
+10039708,32991451,1,T82520A,10,"Displacement of surgically created AV fistula, init",255139889,44022971233,87
+10005866,31806264,1,K56609,10,"Unsp intestnl obst, unsp as to partial versus complete obst",948819316,673813737,38
+10012853,38074673,1,N99518,10,Other cystostomy complication,574264008,862069436,107
+10039708,34604678,3,N189,10,"Chronic kidney disease, unspecified",211653998,654777,83
+10014354,39105638,3,I10,10,Essential (primary) hypertension,772800143,11700,25
+10014354,31640785,1,R1013,10,Epigastric pain,677535806,30279783,36
+10002930,39266792,1,M542,10,Cervicalgia,808505430,613154,142
+10005866,30225689,1,R109,10,Unspecified abdominal pain,400558670,841113,31
+10040025,31226423,1,R112,10,"Nausea with vomiting, unspecified",328569277,841142,32
+10002930,39910144,1,F10129,10,"Alcohol abuse with intoxication, unspecified",211824400,364478049,91
+10020306,37965024,3,R0600,10,"Dyspnea, unspecified",572635487,30240864,85
+10015931,37196191,3,Z7901,10,Long term (current) use of anticoagulants,893803031,44008273,111
+10016742,33211001,2,G1221,10,Amyotrophic lateral sclerosis,519742062,11806633,136
+10014354,39202185,2,N179,10,"Acute kidney failure, unspecified",386445249,654741,16

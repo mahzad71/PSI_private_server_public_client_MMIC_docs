@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes,fixed_length_encoded_icd_codes,unique_number
+10015860,31626291,2,Z794,10,Long term (current) use of insulin,47299464,1222456,20
+10026354,31200743,1,S31614A,10,"Lac w/o fb of abd wall, left lower q w penet perit cav, init",878539482,41542223905,40
+10005866,31121963,1,R1013,10,Epigastric pain,677535806,30279783,36
+10012853,35933027,1,N390,10,"Urinary tract infection, site not specified",559350810,657396,68
+10019003,35568186,1,D735,10,Infarction of spleen,662246905,195809,113
+10014354,39633384,4,Y9289,10,Oth places as the place of occurrence of the external cause,51668840,42413193,73
+10040025,32840887,3,E1122,10,Type 2 diabetes mellitus w diabetic chronic kidney disease,861326868,8446106,131
+10014354,35205519,2,R079,10,"Chest pain, unspecified",772980122,840069,1
+10023239,35942924,6,D860,10,Sarcoidosis of lung,831534104,197208,11
+10037928,34992024,5,Z794,10,Long term (current) use of insulin,47299464,1222456,20
+10005866,31023359,2,R112,10,"Nausea with vomiting, unspecified",328569277,841142,32
+10004720,34391979,2,J9383,10,Other pneumothorax,102567775,17220243,138
+10037861,35224843,1,I6201,10,Nontraumatic acute subdural hemorrhage,495914635,15399073,4
+10014354,30390242,1,R109,10,Unspecified abdominal pain,400558670,841113,31
+10014354,38801518,1,R509,10,"Fever, unspecified",547984338,846297,69
+10002428,38216551,2,E039,10,"Hypothyroidism, unspecified",382829234,233397,12
+10016742,36180820,1,J189,10,"Pneumonia, unspecified organism",853498443,468153,101
+10019003,31254712,2,N390,10,"Urinary tract infection, site not specified",559350810,657396,68
+10014354,39621946,1,R509,10,"Fever, unspecified",547984338,846297,69
+10040025,32095131,2,Z794,10,Long term (current) use of insulin,47299464,1222456,20

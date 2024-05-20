@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes,fixed_length_encoded_icd_codes,unique_number
+10002930,32272346,3,B20,10,Human immunodeficiency virus [HIV] disease,821840614,2664,139
+10018423,33032677,1,R079,10,"Chest pain, unspecified",772980122,840069,1
+10040025,32095131,1,E11621,10,Type 2 diabetes mellitus with foot ulcer,817744582,304065001,132
+10019003,38020791,1,D735,10,Infarction of spleen,662246905,195809,113
+10019003,31254712,1,A419,10,"Sepsis, unspecified organism",359535548,51885,79
+10040025,36132883,1,R600,10,Localized edema,888708953,847584,130
+10037928,34992024,3,W010XXA,10,"Fall same lev from slip/trip w/o strike against object, init",153420258,50067705313,100
+10039997,34951841,2,R531,10,Weakness,847475633,846397,70
+10039708,36474912,2,Y838,10,"Oth surgical procedures cause abn react/compl, w/o misadvnt",83239254,1176884,84
+10035631,39467106,1,J189,10,"Pneumonia, unspecified organism",853498443,468153,101
+10014354,39633384,1,E1165,10,Type 2 diabetes mellitus with hyperglycemia,62571186,8446253,72
+10015272,33473053,1,I2699,10,Other pulmonary embolism without acute cor pulmonale,732937054,15217965,3
+10039708,30915333,1,K922,10,"Gastrointestinal hemorrhage, unspecified",575792715,524954,45
+10026354,31200743,3,X991XXA,10,"Assault by knife, initial encounter",549058727,52802166817,41
+10023239,35942924,2,E109,10,Type 1 diabetes mellitus without complications,884066495,234585,13
+10010471,35357090,1,I4891,10,Unspecified atrial fibrillation,432295680,15313861,29
+10016742,33211001,1,Z452,10,Encounter for adjustment and management of VAD,46431745,1218422,135
+10040025,31226423,2,R197,10,"Diarrhea, unspecified",183834177,841435,47
+10039708,32587478,1,N179,10,"Acute kidney failure, unspecified",386445249,654741,16
+10002930,39266792,3,B20,10,Human immunodeficiency virus [HIV] disease,821840614,2664,139

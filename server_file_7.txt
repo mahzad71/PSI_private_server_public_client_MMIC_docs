@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes
+10023239,36323598,3,E109,10,Type 1 diabetes mellitus without complications,5282736
+10015860,31153288,1,R197,10,"Diarrhea, unspecified",18283634
+10023239,35942924,5,E039,10,"Hypothyroidism, unspecified",5273036
+10018423,39057874,1,R0789,10,Other chest pain,1827343536
+10015860,30373795,3,Y832,10,"Anastomos,bypass or grft cause abn react/compl, w/o misadvnt",25353029
+10012853,39028384,2,Y738,10,"Misc gastroent and urology devices assoc w incdt, NEC",25343035
+10012853,33256413,4,E119,10,Type 2 diabetes mellitus without complications,5282836
+10040025,36132883,4,Z794,10,Long term (current) use of insulin,26343631
+10014354,35452640,1,R079,10,"Chest pain, unspecified",18273436
+10040025,31226423,3,E119,10,Type 2 diabetes mellitus without complications,5282836
+10014354,39202185,6,E7800,10,"Pure hypercholesterolemia, unspecified",534352727
+10012853,39028384,3,N390,10,"Urinary tract infection, site not specified",14303627
+10040025,31226423,6,Z7901,10,Long term (current) use of anticoagulants,2634362728
+10005866,35681380,1,R1031,10,Right lower quadrant pain,1828273028
+10019003,31254712,4,C9210,10,"Chronic myeloid leuk, BCR/ABL-positive, not achieve remis",336292827
+10023239,37578680,1,N179,10,"Acute kidney failure, unspecified",14283436
+10037928,34992024,2,S0181XA,10,"Laceration w/o foreign body of oth part of head, init encntr",1927283528241
+10015931,37196191,1,I509,10,"Heart failure, unspecified",9322736
+10040025,37196722,1,K625,10,Hemorrhage of anus and rectum,11332932
+10037928,34992024,4,E119,10,Type 2 diabetes mellitus without complications,5282836

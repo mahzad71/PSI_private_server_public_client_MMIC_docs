@@ -1,0 +1,4 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes,fixed_length_encoded_icd_codes,unique_number
+10010867,34646141,1,R0600,10,"Dyspnea, unspecified",572635487,30240864,85
+10014354,39105638,2,W1830XA,10,"Fall on same level, unspecified, initial encounter",572594260,50140037665,60
+10020187,35766268,2,I10,10,Essential (primary) hypertension,772800143,11700,25

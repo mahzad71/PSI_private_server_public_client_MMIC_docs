@@ -1,0 +1,13 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes
+10026406,38237602,1,S0090XA,10,"Unsp superficial injury of unsp part of head, init encntr",1927273627241
+10040025,32840887,1,M7989,10,Other specified soft tissue disorders,1334363536
+10002930,32272346,2,F10129,10,"Alcohol abuse with intoxication, unspecified",62827282936
+10020306,37206743,2,H5711,10,"Ocular pain, right eye",832342828
+10038999,30272878,1,I313,10,Pericardial effusion (noninflammatory),9302830
+10002428,38216551,3,M3500,10,"Sicca syndrome, unspecified",1330322727
+10020306,37321464,5,I10,10,Essential (primary) hypertension,92827
+10010867,30667562,3,V499XXA,10,"Car occupant (driver) (passenger) injured in unsp traf, init",2231363624241
+10039708,39747335,2,N189,10,"Chronic kidney disease, unspecified",14283536
+10039708,31612436,1,D649,10,"Anemia, unspecified",4333136
+10015860,33863177,1,L03116,10,Cellulitis of left lower limb,122730282833
+10014354,39140069,1,R1013,10,Epigastric pain,1828272830

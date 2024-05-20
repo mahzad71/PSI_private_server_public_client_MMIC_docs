@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes,fixed_length_encoded_icd_codes,unique_number
+10023239,36323598,3,E109,10,Type 1 diabetes mellitus without complications,884066495,234585,13
+10015860,31153288,1,R197,10,"Diarrhea, unspecified",183834177,841435,47
+10023239,35942924,5,E039,10,"Hypothyroidism, unspecified",382829234,233397,12
+10018423,39057874,1,R0789,10,Other chest pain,807384716,30242457,61
+10015860,30373795,3,Y832,10,"Anastomos,bypass or grft cause abn react/compl, w/o misadvnt",443688344,1176878,49
+10012853,39028384,2,Y738,10,"Misc gastroent and urology devices assoc w incdt, NEC",13125597,1175588,103
+10012853,33256413,4,E119,10,Type 2 diabetes mellitus without complications,801674752,234621,14
+10040025,36132883,4,Z794,10,Long term (current) use of insulin,47299464,1222456,20
+10014354,35452640,1,R079,10,"Chest pain, unspecified",772980122,840069,1
+10040025,31226423,3,E119,10,Type 2 diabetes mellitus without complications,801674752,234621,14
+10014354,39202185,6,E7800,10,"Pure hypercholesterolemia, unspecified",614209742,8735040,22
+10012853,39028384,3,N390,10,"Urinary tract infection, site not specified",559350810,657396,68
+10040025,31226423,6,Z7901,10,Long term (current) use of anticoagulants,893803031,44008273,111
+10005866,35681380,1,R1031,10,Right lower quadrant pain,606087769,30279853,37
+10019003,31254712,4,C9210,10,"Chronic myeloid leuk, BCR/ABL-positive, not achieve remis",780564297,5461380,114
+10023239,37578680,1,N179,10,"Acute kidney failure, unspecified",386445249,654741,16
+10037928,34992024,2,S0181XA,10,"Laceration w/o foreign body of oth part of head, init encntr",525980452,41360919409,96
+10015931,37196191,1,I509,10,"Heart failure, unspecified",530747975,426393,110
+10040025,37196722,1,K625,10,Hemorrhage of anus and rectum,529446791,521069,66
+10037928,34992024,4,E119,10,Type 2 diabetes mellitus without complications,801674752,234621,14

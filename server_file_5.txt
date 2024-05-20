@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes
+10015860,38133986,3,R871,10,Abn lev hormones in specimens from female genital organs,18353428
+10040025,32840887,7,E039,10,"Hypothyroidism, unspecified",5273036
+10039708,36474912,1,T82898A,10,"Oth complication of vascular prosth dev/grft, init",2035293536351
+10039708,32991451,3,Z992,10,Dependence on renal dialysis,26363629
+10040025,36041505,1,T814XXA,10,"Infection following a procedure, initial encounter",2035283124241
+10039708,35168275,1,R5383,10,Other fatigue,1832303530
+10002930,39910144,3,B20,10,Human immunodeficiency virus [HIV] disease,22927
+10002930,39266792,2,R45851,10,Suicidal ideations,183132353228
+10012853,35933027,2,T83098A,10,"Mech compl of other urinary catheter, initial encounter",2035302736351
+10005866,32281632,1,R109,10,Unspecified abdominal pain,18282736
+10005866,32537287,1,I81,10,Portal vein thrombosis,93528
+10014354,37145382,1,M79662,10,Pain in left lower leg,133436333329
+10014354,39105638,4,Z8673,10,"Prsnl hx of TIA (TIA), and cereb infrc w/o resid deficits",2635333430
+10020306,37321464,2,W1809XA,10,"Striking against oth object w subsequent fall, init encntr",2328352736241
+10010867,30115213,1,S066X9A,10,"Traum subrac hem w LOC of unsp duration, init",1927333324361
+10014354,38849383,3,R871,10,Abn lev hormones in specimens from female genital organs,18353428
+10002428,37376268,1,K922,10,"Gastrointestinal hemorrhage, unspecified",11362929
+10014354,34820898,3,Z794,10,Long term (current) use of insulin,26343631
+10002930,35114287,4,W1830XA,10,"Fall on same level, unspecified, initial encounter",2328353027241
+10023239,35942924,1,R55,10,Syncope and collapse,183232

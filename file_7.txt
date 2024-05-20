@@ -1,0 +1,4 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes
+10026406,38237602,4,F10129,10,"Alcohol abuse with intoxication, unspecified",62827282936
+10014354,35452640,3,E119,10,Type 2 diabetes mellitus without complications,5282836
+10014354,38849383,1,R079,10,"Chest pain, unspecified",18273436

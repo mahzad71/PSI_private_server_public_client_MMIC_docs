@@ -1,0 +1,4 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes,fixed_length_encoded_icd_codes,unique_number
+10040025,32840887,4,N189,10,"Chronic kidney disease, unspecified",211653998,654777,83
+10040025,32579239,1,N179,10,"Acute kidney failure, unspecified",386445249,654741,16
+10014354,37802225,1,R079,10,"Chest pain, unspecified",772980122,840069,1

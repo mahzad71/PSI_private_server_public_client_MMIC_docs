@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes
+10015860,31626291,2,Z794,10,Long term (current) use of insulin,26343631
+10026354,31200743,1,S31614A,10,"Lac w/o fb of abd wall, left lower q w penet perit cav, init",1930283328311
+10005866,31121963,1,R1013,10,Epigastric pain,1828272830
+10012853,35933027,1,N390,10,"Urinary tract infection, site not specified",14303627
+10019003,35568186,1,D735,10,Infarction of spleen,4343032
+10014354,39633384,4,Y9289,10,Oth places as the place of occurrence of the external cause,2536293536
+10040025,32840887,3,E1122,10,Type 2 diabetes mellitus w diabetic chronic kidney disease,528282929
+10014354,35205519,2,R079,10,"Chest pain, unspecified",18273436
+10023239,35942924,6,D860,10,Sarcoidosis of lung,4353327
+10037928,34992024,5,Z794,10,Long term (current) use of insulin,26343631
+10005866,31023359,2,R112,10,"Nausea with vomiting, unspecified",18282829
+10004720,34391979,2,J9383,10,Other pneumothorax,1036303530
+10037861,35224843,1,I6201,10,Nontraumatic acute subdural hemorrhage,933292728
+10014354,30390242,1,R109,10,Unspecified abdominal pain,18282736
+10014354,38801518,1,R509,10,"Fever, unspecified",18322736
+10002428,38216551,2,E039,10,"Hypothyroidism, unspecified",5273036
+10016742,36180820,1,J189,10,"Pneumonia, unspecified organism",10283536
+10019003,31254712,2,N390,10,"Urinary tract infection, site not specified",14303627
+10014354,39621946,1,R509,10,"Fever, unspecified",18322736
+10040025,32095131,2,Z794,10,Long term (current) use of insulin,26343631

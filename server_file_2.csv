@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes,fixed_length_encoded_icd_codes,unique_number
+10015860,31353849,3,R42,10,Dizziness and giddiness,315485386,23474,42
+10015860,30373795,2,T82868A,10,"Thrombosis due to vascular prosth dev/grft, init",824711739,44023116673,59
+10014354,39140069,3,I4891,10,Unspecified atrial fibrillation,432295680,15313861,29
+10040025,39054681,1,N179,10,"Acute kidney failure, unspecified",386445249,654741,16
+10039997,31764136,2,F419,10,"Anxiety disorder, unspecified",909915745,285165,118
+10040025,31226423,4,Z794,10,Long term (current) use of insulin,47299464,1222456,20
+10040025,31226423,5,I10,10,Essential (primary) hypertension,772800143,11700,25
+10004720,34391979,1,R092,10,Respiratory arrest,56129285,840134,137
+10014354,30094124,2,E860,10,Dehydration,346852819,243864,64
+10020187,30689793,2,I10,10,Essential (primary) hypertension,772800143,11700,25
+10014354,32287800,1,R0789,10,Other chest pain,807384716,30242457,61
+10015860,31626291,3,K922,10,"Gastrointestinal hemorrhage, unspecified",575792715,524954,45
+10019003,36686656,2,R319,10,"Hematuria, unspecified",818453214,843741,102
+10026354,31200743,2,S0266XA,10,"Fracture of symphysis of mandible, init for clos fx",404378327,41362512193,39
+10039708,34604678,1,T82594A,10,"Mech compl of infusion catheter, initial encounter",334391269,44022980449,88
+10023239,37578680,3,Z794,10,Long term (current) use of insulin,47299464,1222456,20
+10014354,38849383,2,I313,10,Pericardial effusion (noninflammatory),96739986,423831,65
+10014354,31640785,2,E109,10,Type 1 diabetes mellitus without complications,884066495,234585,13
+10014354,35205519,3,I313,10,Pericardial effusion (noninflammatory),96739986,423831,65
+10002930,30193781,2,D72829,10,"Elevated white blood cell count, unspecified",834292154,253725777,54

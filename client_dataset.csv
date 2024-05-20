@@ -1,0 +1,25 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes,fixed_length_encoded_icd_codes,unique_number
+10014354,35203396,2,E119,10,Type 2 diabetes mellitus without complications,801674752,234621,14
+10023239,31270431,3,E109,10,Type 1 diabetes mellitus without complications,884066495,234585,13
+10015860,38133986,2,Z794,10,Long term (current) use of insulin,47299464,1222456,20
+10040025,32840887,4,N189,10,"Chronic kidney disease, unspecified",211653998,654777,83
+10040025,32579239,1,N179,10,"Acute kidney failure, unspecified",386445249,654741,16
+10014354,37802225,1,R079,10,"Chest pain, unspecified",772980122,840069,1
+10012853,38074673,3,N390,10,"Urinary tract infection, site not specified",559350810,657396,68
+10014354,31640785,3,Z794,10,Long term (current) use of insulin,47299464,1222456,20
+10039708,32991451,2,Y9289,10,Oth places as the place of occurrence of the external cause,51668840,42413193,73
+10040025,35353291,3,I10,10,Essential (primary) hypertension,772800143,11700,25
+10040025,32840887,5,Z794,10,Long term (current) use of insulin,47299464,1222456,20
+10014354,35205519,1,I4891,10,Unspecified atrial fibrillation,432295680,15313861,29
+10014354,30279522,1,R531,10,Weakness,847475633,846397,70
+10015860,39962121,4,Z794,10,Long term (current) use of insulin,47299464,1222456,20
+10014354,35203396,4,I10,10,Essential (primary) hypertension,772800143,11700,25
+10023239,36323598,6,E039,10,"Hypothyroidism, unspecified",382829234,233397,12
+10019003,38260469,1,K922,10,"Gastrointestinal hemorrhage, unspecified",575792715,524954,45
+10002930,35114287,2,R45851,10,Suicidal ideations,8713103,1095353461,92
+10026406,38237602,4,F10129,10,"Alcohol abuse with intoxication, unspecified",211824400,364478049,91
+10014354,35452640,3,E119,10,Type 2 diabetes mellitus without complications,801674752,234621,14
+10014354,38849383,1,R079,10,"Chest pain, unspecified",772980122,840069,1
+10010867,34646141,1,R0600,10,"Dyspnea, unspecified",572635487,30240864,85
+10014354,39105638,2,W1830XA,10,"Fall on same level, unspecified, initial encounter",572594260,50140037665,60
+10020187,35766268,2,I10,10,Essential (primary) hypertension,772800143,11700,25

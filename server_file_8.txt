@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes
+10014354,35452640,4,E780,10,Pure hypercholesterolemia,5343527
+10002930,35114287,1,F329,10,"Major depressive disorder, single episode, unspecified",6302936
+10015860,31153288,4,N186,10,End stage renal disease,14283533
+10023239,31270431,4,Z794,10,Long term (current) use of insulin,26343631
+10020187,35766268,1,R208,10,Other disturbances of skin sensation,18292735
+10015860,30373795,1,M7989,10,Other specified soft tissue disorders,1334363536
+10007058,38967799,1,I7100,10,Dissection of unspecified site of aorta,934282727
+10039997,34951841,1,I639,10,"Cerebral infarction, unspecified",9333036
+10014354,39202185,1,M7989,10,Other specified soft tissue disorders,1334363536
+10005866,31121963,2,R079,10,"Chest pain, unspecified",18273436
+10020306,36021274,3,R531,10,Weakness,18323028
+10002930,35114287,3,S0090XA,10,"Unsp superficial injury of unsp part of head, init encntr",1927273627241
+10020306,37321464,4,Z7984,10,Long term (current) use of oral hypoglycemic drugs,2634363531
+10039708,30915333,2,I959,10,"Hypotension, unspecified",9363236
+10014354,39633384,2,Z794,10,Long term (current) use of insulin,26343631
+10015860,31353849,1,S72142A,10,"Displaced intertrochanteric fracture of left femur, init",1934292831291
+10010471,31660580,1,I469,10,"Cardiac arrest, cause unspecified",9313336
+10014354,39202185,4,E119,10,Type 2 diabetes mellitus without complications,5282836
+10019003,35568186,3,R0902,10,Hypoxemia,1827362729
+10014354,35203396,3,Z794,10,Long term (current) use of insulin,26343631

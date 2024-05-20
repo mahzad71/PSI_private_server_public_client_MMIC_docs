@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes
+10015860,38133986,1,E1065,10,Type 1 diabetes mellitus with hyperglycemia,528273332
+10014354,39202185,7,I10,10,Essential (primary) hypertension,92827
+10037928,35156583,2,S229XXA,10,"Fracture of bony thorax, part unsp, init for clos fx",1929293624241
+10020306,37965024,1,I5040,10,Unsp combined systolic and diastolic (congestive) hrt fail,932273127
+10040025,36041505,3,Y9289,10,Oth places as the place of occurrence of the external cause,2536293536
+10039708,32345277,1,N179,10,"Acute kidney failure, unspecified",14283436
+10018328,32103106,1,H9312,10,"Tinnitus, left ear",836302829
+10015931,37196191,2,I4891,10,Unspecified atrial fibrillation,931353628
+10015860,31153288,5,Z992,10,Dependence on renal dialysis,26363629
+10015860,31153288,3,I120,10,Hyp chr kidney disease w stage 5 chr kidney disease or ESRD,9282927
+10023239,36323598,7,E785,10,"Hyperlipidemia, unspecified",5343532
+10023239,36323598,2,R740,10,Nonspec elev of levels of transamns & lactic acid dehydrgnse,18343127
+10015860,31626291,5,N179,10,"Acute kidney failure, unspecified",14283436
+10012853,33256413,2,R319,10,"Hematuria, unspecified",18302836
+10010867,30667562,2,S22069A,10,"Unsp fracture of T7-T8 vertebra, init for clos fx",1929292733361
+10037928,35156583,1,S2232XA,10,"Fracture of one rib, left side, init for clos fx",1929293029241
+10023239,39348852,2,Z794,10,Long term (current) use of insulin,26343631
+10040025,37196722,2,D649,10,"Anemia, unspecified",4333136
+10012853,33256413,1,N390,10,"Urinary tract infection, site not specified",14303627
+10023239,35942924,4,E7800,10,"Pure hypercholesterolemia, unspecified",534352727

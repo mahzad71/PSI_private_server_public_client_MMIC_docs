@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes,fixed_length_encoded_icd_codes,unique_number
+10020306,37321464,3,E119,10,Type 2 diabetes mellitus without complications,801674752,234621,14
+10035631,37330786,1,D72829,10,"Elevated white blood cell count, unspecified",834292154,253725777,54
+10002930,39910144,2,R45851,10,Suicidal ideations,8713103,1095353461,92
+10023239,31270431,1,R5383,10,Other fatigue,662732230,30470547,23
+10002930,32272346,1,E162,10,"Hypoglycemia, unspecified",943567433,234794,141
+10014354,36250263,1,K625,10,Hemorrhage of anus and rectum,529446791,521069,66
+10038999,34205403,1,S82391A,10,"Oth fracture of lower end of right tibia, init for clos fx",353833789,41846104693,127
+10040025,36132883,5,I4891,10,Unspecified atrial fibrillation,432295680,15313861,29
+10015860,30373795,5,N186,10,End stage renal disease,638399300,654774,46
+10015860,35958431,1,R7881,10,Bacteremia,724236294,30570337,53
+10012853,35933027,3,Y848,10,"Oth medical procedures cause abn react/compl, w/o misadvnt",628943580,1176920,105
+10015860,39962121,2,L97519,10,Non-prs chronic ulcer oth prt right foot w unsp severity,737832629,741043773,57
+10005866,30804580,1,K5660,10,Unspecified intestinal obstruction,113358370,18717048,34
+10039708,36474912,3,Y9289,10,Oth places as the place of occurrence of the external cause,51668840,42413193,73
+10015860,31626291,1,E1010,10,Type 1 diabetes mellitus with ketoacidosis without coma,419411060,8444772,21
+10002930,30193781,1,F10239,10,"Alcohol dependence with withdrawal, unspecified",529221778,364479381,143
+10005866,31023359,3,K7460,10,Unspecified cirrhosis of liver,680220749,18807768,35
+10018328,34176810,1,R55,10,Syncope and collapse,741871156,23513,7
+10039708,30915333,3,D649,10,"Anemia, unspecified",949916388,194553,80
+10014354,34820898,1,R531,10,Weakness,847475633,846397,70

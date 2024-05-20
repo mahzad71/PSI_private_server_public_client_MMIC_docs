@@ -1,0 +1,4 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes
+10023239,36323598,6,E039,10,"Hypothyroidism, unspecified",5273036
+10019003,38260469,1,K922,10,"Gastrointestinal hemorrhage, unspecified",11362929
+10002930,35114287,2,R45851,10,Suicidal ideations,183132353228

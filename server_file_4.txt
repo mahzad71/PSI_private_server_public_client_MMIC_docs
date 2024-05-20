@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes
+10037928,34992024,6,I10,10,Essential (primary) hypertension,92827
+10015860,31353849,2,W1830XA,10,"Fall on same level, unspecified, initial encounter",2328353027241
+10040025,35353291,1,E10621,10,Type 1 diabetes mellitus with foot ulcer,52827332928
+10023239,35942924,3,Z794,10,Long term (current) use of insulin,26343631
+10023239,36323598,5,Z9641,10,Presence of insulin pump (external) (internal),2636333128
+10040025,36132883,3,E109,10,Type 1 diabetes mellitus without complications,5282736
+10039708,32991451,1,T82520A,10,"Displacement of surgically created AV fistula, init",2035293229271
+10005866,31806264,1,K56609,10,"Unsp intestnl obst, unsp as to partial versus complete obst",113233332736
+10012853,38074673,1,N99518,10,Other cystostomy complication,143636322835
+10039708,34604678,3,N189,10,"Chronic kidney disease, unspecified",14283536
+10014354,39105638,3,I10,10,Essential (primary) hypertension,92827
+10014354,31640785,1,R1013,10,Epigastric pain,1828272830
+10002930,39266792,1,M542,10,Cervicalgia,13323129
+10005866,30225689,1,R109,10,Unspecified abdominal pain,18282736
+10040025,31226423,1,R112,10,"Nausea with vomiting, unspecified",18282829
+10002930,39910144,1,F10129,10,"Alcohol abuse with intoxication, unspecified",62827282936
+10020306,37965024,3,R0600,10,"Dyspnea, unspecified",1827332727
+10015931,37196191,3,Z7901,10,Long term (current) use of anticoagulants,2634362728
+10016742,33211001,2,G1221,10,Amyotrophic lateral sclerosis,728292928
+10014354,39202185,2,N179,10,"Acute kidney failure, unspecified",14283436

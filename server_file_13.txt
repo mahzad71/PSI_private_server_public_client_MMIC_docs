@@ -1,0 +1,21 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes
+10014354,39202185,5,Z794,10,Long term (current) use of insulin,26343631
+10040025,31320010,2,J181,10,"Lobar pneumonia, unspecified organism",10283528
+10039708,34918384,2,K859,10,"Acute pancreatitis, unspecified",11353236
+10037928,34992024,1,S098XXA,10,"Other specified injuries of head, initial encounter",1927363524241
+10039708,34918384,1,A419,10,"Sepsis, unspecified organism",1312836
+10039708,31612436,2,R0600,10,"Dyspnea, unspecified",1827332727
+10014354,35203396,1,L03031,10,Cellulitis of right toe,122730273028
+10012853,33256413,5,I4891,10,Unspecified atrial fibrillation,931353628
+10010867,30115213,3,F10129,10,"Alcohol abuse with intoxication, unspecified",62827282936
+10023239,36323598,1,R110,10,Nausea,18282827
+10014354,35452640,2,I10,10,Essential (primary) hypertension,92827
+10020306,37206743,1,R0600,10,"Dyspnea, unspecified",1827332727
+10040025,35353291,2,L97529,10,Non-pressure chronic ulcer oth prt left foot w unsp severity,123634322936
+10023239,31270431,2,R740,10,Nonspec elev of levels of transamns & lactic acid dehydrgnse,18343127
+10014354,39105638,1,R51,10,Headache,183228
+10002428,38216551,1,H5713,10,"Ocular pain, bilateral",832342830
+10010867,30667562,1,S22059A,10,"Unsp fracture of T5-T6 vertebra, init for clos fx",1929292732361
+10014354,39633384,3,T383X1A,10,"Poisoning by insulin and oral hypoglycemic drugs, acc, init",2030353024281
+10015860,39962121,1,E10621,10,Type 1 diabetes mellitus with foot ulcer,52827332928
+10016742,33335871,1,J189,10,"Pneumonia, unspecified organism",10283536

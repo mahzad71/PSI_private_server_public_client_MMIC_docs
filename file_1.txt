@@ -1,0 +1,4 @@
+subject_id,stay_id,seq_num,icd_code,icd_version,icd_title,encoded_icd_codes
+10014354,35203396,2,E119,10,Type 2 diabetes mellitus without complications,5282836
+10023239,31270431,3,E109,10,Type 1 diabetes mellitus without complications,5282736
+10015860,38133986,2,Z794,10,Long term (current) use of insulin,26343631
